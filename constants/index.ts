@@ -110,10 +110,6 @@ export const pricingItem = [
                 img: lightcheck,
                 para: "Encrypted Connection",
             },
-            // {
-            //     img: lightcheck,
-            //     para: "No Traffic Logs",
-            // },
             {
                 img: lightcheck,
                 para: "Works on All Devices",
@@ -144,14 +140,6 @@ export const pricingItem = [
                 img: lightcheck,
                 para: "No Traffic Logs",
             },
-            // {
-            //     img: lightcheck,
-            //     para: "Works on All Devices",
-            // },
-            // {
-            //     img: lightcheck,
-            //     para: "Connect Anywere",
-            // },
             {
                 img: lightcheck,
                 para: "Get New Features",
